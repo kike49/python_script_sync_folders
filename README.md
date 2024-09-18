@@ -6,7 +6,7 @@ User needs to input the path to the folders and log file plus the periodic inter
 
 ## To run the script
 
-`python folder_sync.py source_folder_path replica_folder_path number_of_seconds log_fil_path`
+`python folder_sync.py source_folder_path replica_folder_path number_of_seconds log_file_path`
 
 ## To run the tests
 
